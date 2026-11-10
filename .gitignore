@@ -1,0 +1,21 @@
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal planning/spec docs (not for public release)
+docs/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Local test output
+/tmp/
+*.log
